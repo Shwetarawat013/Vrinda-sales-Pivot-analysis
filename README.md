@@ -9,7 +9,7 @@ This is Sales Vrinda's annual sales data, which we will use to address the compa
       •	Top-selling Category**.
 
 
-**Insight From the Vrinda Sales analys.**
+**Insight From the Vrinda Sales analyse:**
     Compared to males, women are more inclined to purchase. The top three states are Uttar Pradesh, Karnataka, and Maharashtra. The adult age group contributes the most. The channels for Amazon, Flipkart, and Myntra are the most contributing.
 
 **Final conclusion to improve the vrinda Store Sales:**
